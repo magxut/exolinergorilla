@@ -1,15 +1,16 @@
 {
-  "totalMods" : 2,
-  "0" : {
-   "name" : "BepInEx",
-   "tag" : "",
-   "gitPath" : "BepInEx/BepInEx",
-   "releaseId" : 1
-  },
-  "1" : {
-   "name" : "Exoliner Menu",
-   "tag" : "",
-   "gitPath" : "magxut/exolinergorilla",
-   "releaseId" : 0
-  }
+   "mods" : [
+      {
+         "name" : "BepInEx",
+         "tag" : "",
+         "gitPath" : "BepInEx/BepInEx",
+         "releaseId" : 1
+      },
+      {
+         "name" : "Exoliner Menu",
+         "tag" : "",
+         "gitPath" : "magxut/exolinergorilla",
+         "releaseId" : 0
+      }
+   ]
 }
