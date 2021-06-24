@@ -4,35 +4,13 @@
          "name" : "BepInEx",
          "tag" : "",
          "gitPath" : "BepInEx/BepInEx",
-         "releaseId" : 1,
-         "author" : "BepInEx Team",
-         "group" : "Core"
+         "releaseId" : 1
       },
       {
-        "name" : "Exoliner Menu",
-        "tag" : "",
-        "gitPath" : "ExolinerTeam/EXOMODMENU",
-        "releaseId": 0,
-        "author" : "ExolinerTeam",
-        "group" : "Cheats"
+         "name" : "Exoliner Menu",
+         "tag" : "",
+         "gitPath" : "ExolinerTeam/EXOMODMENU",
+         "releaseId" : 0
       }
-   ],
-   "groups" : [
-     {
-       "name" : "Core",
-       "rank" : 0
-     },
-     {
-       "name" : "Cosmetic",
-       "rank" : 1
-     },
-     {
-       "name" : "Cheats",
-       "rank" : 2
-     },
-     {
-       "name" : "Libraries",
-       "rank" : 3
-     }
    ]
 }
