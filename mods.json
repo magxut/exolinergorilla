@@ -1,0 +1,38 @@
+{
+   "mods" : [
+      {
+         "name" : "BepInEx",
+         "tag" : "",
+         "gitPath" : "BepInEx/BepInEx",
+         "releaseId" : 1,
+         "author" : "BepInEx Team",
+         "group" : "Core"
+      },
+      {
+        "name" : "Exoliner Menu",
+        "tag" : "",
+        "gitPath" : "magxut/exolinergorilla",
+        "releaseId": 0,
+        "author" : "Exoliner Team",
+        "group" : "Cheats"
+      }
+   ],
+   "groups" : [
+     {
+       "name" : "Core",
+       "rank" : 0
+     },
+     {
+       "name" : "Cosmetic",
+       "rank" : 1
+     },
+     {
+       "name" : "Cheats",
+       "rank" : 2
+     },
+     {
+       "name" : "Libraries",
+       "rank" : 3
+     }
+   ]
+}
