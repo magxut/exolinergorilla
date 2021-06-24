@@ -8,13 +8,6 @@
       },
 
       {
-         "name" : "Exoliner Names",
-         "tag" : "",
-         "gitPath" : "BepInEx/BepInEx",
-         "releaseId" : 1
-      },      
-
-      {
          "name" : "Terror Menu",
          "tag" : "",
          "gitPath" : "ExolinerTeam/ExoMenu",
