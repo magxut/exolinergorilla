@@ -9,6 +9,15 @@
          "group" : "Core"
       },
       {
+        "name" : "Bepinject",
+        "tag" : "",
+        "gitPath" : "Auros/Bepinject",
+        "releaseId": 0,
+        "author" : "Auros",
+        "group" : "Libraries",
+        "installPath" : "BepInEx/plugins",
+      {
+       },
         "name" : "Terrxr Menu",
         "tag" : "",
         "gitPath" : "TerrxrSource/TERROR",
@@ -16,6 +25,7 @@
         "author" : "Exoliner Team",
         "group" : "Cheats"
       }
+      
    ],
    "groups" : [
      {
