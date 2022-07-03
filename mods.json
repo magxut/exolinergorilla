@@ -16,28 +16,8 @@
         "author" : "Exoliner Team",
         "group" : "Cheats"
       }
-      },
-      {
-        "name" : "Bepinject",
-        "tag" : "",
-        "gitPath" : "Auros/Bepinject",
-        "releaseId": 0,
-        "author" : "Auros",
-        "group" : "Libraries",
-        "installPath" : "BepInEx/plugins",
-        "dependencies" : [
-          "Extenject"
-        ]
-      },
-      {
-        "name" : "Extenject",
-        "tag" : "",
-        "gitPath" : "Auros/Bepinject",
-        "releaseId": 1,
-        "author" : "svermeulen",
-        "group" : "Libraries",
-        "installPath" : "BepInEx/plugins"
-      },
+ ],
+     
    "groups" : [
      {
        "name" : "Core",
