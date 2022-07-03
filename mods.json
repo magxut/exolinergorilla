@@ -15,7 +15,6 @@
         "releaseId": 0,
         "author" : "Auros",
         "group" : "Libraries",
-        "installPath" : "BepInEx/plugins",
       {
        },
         "name" : "Terrxr Menu",
